@@ -1,14 +1,27 @@
 # Car plate yolo fomat
 Car plate yolo format labels made by [labelImg](https://github.com/HumanSignal/labelImg)
-
-
-
 ## Features
 - Supports annotation in PASCAL VOC and YOLO format.
 - Easily create bounding boxes to label objects in an image.
 - Save and load annotations for review.
 - Simple and user-friendly interface
 
+## Getting started
+1. Clone Repository
+    ```
+    git clone https://github.com/SylvinIsamaza/car_plate_yolo_format.git
+    ```
+2. Navigate to folder called  car_plate_yolo_format_label
+    ```bash
+    cd car_plate_yolo_format
+    ```
+
+3. You will see the following file
+
+    | File name | Description                       |
+    | :-------- | :-------------------------------- |
+    | `classes.txt`  | It contain list of all classess annotated         |
+    | `*.txt`  | label file for specific image        |
 ## Usage
 
 
@@ -130,22 +143,7 @@ tzutalin/py2qt4
 
 make qt4py2;./labelImg.py
 ```
-## Getting started
-1. Clone Repository
-    ```
-    git clone https://github.com/SylvinIsamaza/car_plate_yolo_format.git
-    ```
-2. Navigate to folder called  car_plate_yolo_format_label
-    ```bash
-    cd car_plate_yolo_format
-    ```
 
-3. You will see the following file
-
-    | File name | Description                       |
-    | :-------- | :-------------------------------- |
-    | `classes.txt`  | It contain list of all classess annotated         |
-    | `*.txt`  | label file for specific image        |
 
 ## Authors
 - [@SylvainIsamaza](https://www.github.com/SylvinIsamaza)
