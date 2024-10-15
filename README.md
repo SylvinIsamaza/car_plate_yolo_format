@@ -23,12 +23,6 @@ Car plate yolo format labels made by [labelImg](https://github.com/HumanSignal/l
     | `classes.txt`  | It contain list of all classess annotated         |
     | `*.txt`  | label file for specific image        |
 ## Usage
-
-
-Steps (PascalVOC)
-
-
-
 ### Steps (YOLO)
 
 
